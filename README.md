@@ -6,6 +6,7 @@ hello. if you are here then you are probably trying to sync nchaos from studio t
    
 3: find the directory on your computer (NChaos), just to confirm you have it   
 4: open nightmare chaos on studio   
+
 5: right click and click script sync on SharedMain (in ReplicatedStorage) with Shared, ServerMain (in ServerScriptService) with Server, and ClientMain (in StarterPlayerScripts) with Client.   
 now, when you make changes in studio, or on your pc with the scripts, they all sync together :)
    
