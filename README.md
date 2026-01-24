@@ -15,7 +15,7 @@ now, when you make changes in studio, or on your pc with the scripts, they all s
 this is where you are gonna be running commands to make changes and stuff.   
 and heres some of the essential things you will be using:
 
-    git status                         - see what you changes
+    git status                         - see what you changed
     git add .                          - stages all changes, do this if you wanna add new changes to repo
     git commit -m "this is a message"  - saves changes to git history with who did it, and what it is (leave what you changes as a message)
     git push                           - saves changes to online repo
