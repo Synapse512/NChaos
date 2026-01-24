@@ -11,7 +11,7 @@ hello. if you are here then you are probably trying to sync nchaos from studio t
 now, when you make changes in studio, or on your pc with the scripts, they all sync together :)
    
 6: open vs code, open up NChaos folder   
-7: in vs code terminal (open with Ctrl+)   
+7: in vs code terminal (open with "Ctrl" + "`")   
 this is where you are gonna be running commands to make changes and stuff.   
 and heres some of the essential things you will be using:
 
