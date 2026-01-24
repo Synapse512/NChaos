@@ -1,6 +1,6 @@
 hello. if you are here then you are probably trying to sync nchaos from studio to github. its very simple.
 
-1: download git and vs code if you havent already
+1: download git and vs code if you havent already   
 2: run "git clone https://github.com/Synapse512/NChaos.git" in your terminal
    this creates a local repo that is also connected to the online one
    
